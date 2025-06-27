@@ -1,10 +1,11 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Bem-vindo(a) ao meu GitHub!
 
 ## Sobre mim
-- Me chamo Matheus, sou formado em Engenharia Civil pela Universidade Presbiteriana Mackenzie. - Atuo como Cientista de Dados Sênior e possuo experiência em risco de crédito, *machine learning*, ETL, *feature engineering* e *data quality* 
+- Cientista de Dados Sênior com experiência em risco de crédito, *machine learning*, ETL, *feature engineering* e *data quality* 
+- Formado em Engenharia Civil pela Universidade Presbiteriana Mackenzie. 
 - Utilizo ferramentas como SAS, Python, SQL e combino dados, tecnologia e estratégia de negócio para **gerar impacto real**!
 
-Fun fact: Quando não estou buscando soluções para problemas, você me encontra na academia ou em shows de heavy-metal! 🤘
+Fun fact: Quando não estou solucionando problemas, você me encontra na academia ou em shows de heavy-metal! 🤘
 
 
 ### Onde me encontrar
@@ -53,12 +54,12 @@ Fun fact: Quando não estou buscando soluções para problemas, você me encontr
 </table>
 
 ## Projetos em destaque
-<!-- [![aportes-otimizacao](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=aportes-otimizacao&theme=transparent)](https://github.com/matcgoes/aportes-otimizacao)
+[![aportes-otimizacao](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=aportes-otimizacao&theme=transparent)](https://github.com/matcgoes/aportes-otimizacao)
 [![simulacao-brasileirao](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=simulacao-brasileirao&theme=transparent)](https://github.com/matcgoes/simulacao-brasileirao)
-[![youtube-video-transcribe](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=youtube-video-transcribe&theme=transparent)](https://github.com/matcgoes/youtube-video-transcribe) -->
+[![youtube-video-transcribe](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=youtube-video-transcribe&theme=transparent)](https://github.com/matcgoes/youtube-video-transcribe)
 
 <!-- Linha 1 – dois cards lado a lado -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/matcgoes/aportes-otimizacao">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=aportes-otimizacao&theme=transparent"
@@ -71,17 +72,17 @@ Fun fact: Quando não estou buscando soluções para problemas, você me encontr
       alt="simulacao-brasileirao"
       height="120">
   </a>
-</p>
+</p> -->
 
 <!-- Linha 2 – um card centralizado -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/matcgoes/youtube-video-transcribe">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=youtube-video-transcribe&theme=transparent"
       alt="youtube-video-transcribe"
       height="120">
   </a>
-</p>
+</p> -->
 
 ## Estatísticas GitHub
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matcgoes&layout=compact&theme=transparent)
