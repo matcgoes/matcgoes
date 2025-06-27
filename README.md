@@ -13,6 +13,7 @@ Fun fact: Quando não estou solucionando problemas, você me encontra na academi
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matcgoes@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/matheusgoes)
 
+
 ## Tech stack & ferramentas
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -53,7 +54,7 @@ Fun fact: Quando não estou solucionando problemas, você me encontra na academi
   </tr>
 </table>
 
-## Projetos em destaque
+## Projetos
 [![aportes-otimizacao](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=aportes-otimizacao&theme=transparent)](https://github.com/matcgoes/aportes-otimizacao)
 [![simulacao-brasileirao](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=simulacao-brasileirao&theme=transparent)](https://github.com/matcgoes/simulacao-brasileirao)
 [![youtube-video-transcribe](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=youtube-video-transcribe&theme=transparent)](https://github.com/matcgoes/youtube-video-transcribe)
@@ -86,13 +87,14 @@ Fun fact: Quando não estou solucionando problemas, você me encontra na academi
 
 ## Estatísticas GitHub
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matcgoes&layout=compact&theme=transparent)
-![GitHub Streak](https://streak-stats.demolab.com/?user=matcgoes&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com/?user=matcgoes&theme=transparent) -->
 
-<p align="center">
+<!-- Profile Summary -->
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matcgoes&theme=dark" width="80%" alt="Profile details"/>
 </p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matcgoes&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=transparent" height="150" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matcgoes&layout=compact&theme=transparent" height="150" alt="Top languages"/>
   <img src="https://streak-stats.demolab.com/?user=matcgoes&theme=transparent" height="150" alt="GitHub streak"/>
 </p>
 
