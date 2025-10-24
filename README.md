@@ -55,7 +55,7 @@ Fun fact: Quando não estou solucionando problemas, você me encontra na academi
 </table>
 
 ## Projetos
-[![fastai-sportsball-classifier](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=aportes-otimizacao&theme=transparent)](https://github.com/matcgoes/fastai-sportsball-classifier)
+[![fastai-sportsball-classifier](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=fastai-sportsball-classifier&theme=transparent)](https://github.com/matcgoes/fastai-sportsball-classifier)
 [![aportes-otimizacao](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=aportes-otimizacao&theme=transparent)](https://github.com/matcgoes/aportes-otimizacao)
 [![simulacao-brasileirao](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=simulacao-brasileirao&theme=transparent)](https://github.com/matcgoes/simulacao-brasileirao)
 [![youtube-video-transcribe](https://github-readme-stats.vercel.app/api/pin/?username=matcgoes&repo=youtube-video-transcribe&theme=transparent)](https://github.com/matcgoes/youtube-video-transcribe)
